@@ -11,4 +11,4 @@ There are things that I need to do to make this better.
 - [ ] Multi-Page support
 
 # Usage
-Simply run cargo run in the folder then type ``127.0.0.1:7878`` in your browser.
+Simply run ``cargo run`` in the folder then type ``127.0.0.1:7878`` in your browser.
